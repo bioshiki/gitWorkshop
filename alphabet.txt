@@ -1,8 +1,9 @@
 ABCDEFG
-HIJK
+IJK
 LMNOP
 QRS
 TUV
 WXY and Z
 Now I know my ABCs
 Next time
+iii!
